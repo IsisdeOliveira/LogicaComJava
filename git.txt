@@ -1,0 +1,3 @@
+Comando para clonar Repositório
+
+git clone endereço do GitHub
