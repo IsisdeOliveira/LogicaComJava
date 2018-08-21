@@ -1,3 +1,9 @@
 Comando para clonar Repositório
 
 git clone endereço do GitHub
+
+git status
+git add
+.
+git commit
+git push
